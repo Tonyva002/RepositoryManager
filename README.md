@@ -2,6 +2,7 @@
 =====================
 
 PROJECT DESCRIPTION 
+-------------------------
 This project uses the github API to query repositories
 
 Necessary tool
